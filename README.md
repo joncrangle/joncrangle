@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hey, I'm Jon 👋
 
-<a href="https://github.com/joncrangle">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joncrangle&show_icons=true&theme=catppuccin_mocha" />
-</a>
-<a href="https://github.com/joncrangle">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joncrangle&langs_count=6&layout=compact&hide=scss,css,powershell&theme=catppuccin_mocha&card_width=275" />
-</a>
+I like understanding how things work. Even more, I like figuring out what else they could do.
+
+I write code, tinker with electronics, and experiment with a homelab.
+
+My projects tend to start with *"what if..."* and go from there.
+
+**[joncrangle.com](https://joncrangle.com)**
